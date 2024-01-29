@@ -1,0 +1,10 @@
+Python 3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: C:\Users\kthac\Desktop\CS 1411\PE12Chapter2.py ===========
+Amount paid: $ 80000.00
+Commission paid buying: $  2400.00
+Amount selling: $  85500.00
+Commission paid selling: $  2565.00
+Profit or loss: $  535.00
+>>> 
